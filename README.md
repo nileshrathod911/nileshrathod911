@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshrathod911&label=Profile%20views&color=0e75b6&style=flat" alt="nileshrathod911" /> </p>
 
-- 🌱 I’m currently learning **Android studio ,Android SDK , JAVA , php , UI/UX , SQlite Database Management , Retrofit , Firebase , RESTful APIs and JSON parsing ,**
+- 🌱 I’m currently learning **Android studio ,Android SDK , JAVA , php , UI/UX , SQlite Database Management , Retrofit , Firebase , RESTful APIs and JSON parsing **
 
 - 📫 How to reach me **rnilesh897@gmail.com**
 
